@@ -1,4 +1,4 @@
-package com.javatechie.aws.rds;
+package com.poc.aws.rds;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

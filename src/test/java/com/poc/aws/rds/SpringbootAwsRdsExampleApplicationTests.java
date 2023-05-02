@@ -1,4 +1,4 @@
-package com.javatechie.aws.rds;
+package com.poc.aws.rds;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

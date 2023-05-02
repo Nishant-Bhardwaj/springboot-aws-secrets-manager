@@ -1,4 +1,4 @@
-package com.javatechie.aws.rds;
+package com.poc.aws.rds;
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;

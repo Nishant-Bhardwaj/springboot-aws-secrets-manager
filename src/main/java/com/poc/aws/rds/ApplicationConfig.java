@@ -1,4 +1,4 @@
-package com.javatechie.aws.rds;
+package com.poc.aws.rds;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;
@@ -12,7 +12,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import javax.sql.DataSource;
-import java.util.Base64;
 
 @Configuration
 public class ApplicationConfig {

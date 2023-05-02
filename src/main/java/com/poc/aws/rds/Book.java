@@ -1,4 +1,4 @@
-package com.javatechie.aws.rds;
+package com.poc.aws.rds;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
